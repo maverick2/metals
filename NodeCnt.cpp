@@ -4,7 +4,10 @@
 #include <vector>
 #include <cstring>
 using namespace std;
- 
+/* Input Format
+-Number of nodes
+-x y
+*/
 int mark[100005],l[100005];
 vector<int> adj[100005];
  
