@@ -2,7 +2,6 @@
 #include <queue>
 #include <vector>
 #include <cstring>
-//#include <climits>
 using namespace std;
 #define N 100005
 int clr[N];
